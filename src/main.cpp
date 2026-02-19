@@ -1,9 +1,6 @@
-#include <Arduino.h>
-void setup() {
-// write your initialization code here
-}
-
-
-void loop() {
-// write your code here
-}
+/**
+* @file main.cpp
+* @brief Embedded Touch Detection System using TTP223
+* @author Nitin Kumar
+* @date 2026-02-18
+*/
